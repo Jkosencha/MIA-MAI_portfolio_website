@@ -2,9 +2,9 @@
    MIA MAI LIMITED — index.js
    ============================================================ */
 
-const EMAILJS_PUBLIC_KEY  = 'fffh_hbd3HcoTb5SW';
-const EMAILJS_SERVICE_ID  = 'service_kxwwesm';
-const EMAILJS_TEMPLATE_ID = 'template_2b3xmwh';
+const EMAILJS_PUBLIC_KEY  = 'Yz-zGLw43kQwg-eGV';
+const EMAILJS_SERVICE_ID  = 'service_d53r6ni';
+const EMAILJS_TEMPLATE_ID = 'template_mdupsag';
 
 /* ===== INIT EMAILJS ONCE on page load ===== */
 if (typeof emailjs !== 'undefined') {
